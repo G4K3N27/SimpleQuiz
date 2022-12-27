@@ -1,2 +1,2 @@
 # SimpleQuiz Construct Game
-Juego de conistruct creado para una tarea universitaria
+Juego de construct creado para una tarea universitaria
